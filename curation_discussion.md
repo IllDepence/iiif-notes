@@ -21,7 +21,7 @@ The table below lists several units of distribution and how they can be describe
 | A set of (parts of) pages | `Range`<sup>[a]</sup> | ?<sup>[b]</sup> |
 | A set of (parts of) pages from several documents | `?` | ?<sup>[b]</sup> |
 
-[a] assuming use of a `within` link pointing to a `Manifest`  
+[a] assuming use of a `within` link pointing to a `Manifest` ([seeAlso](https://github.com/IIIF/api/issues/754))  
 [b] suggests a dedicated viewers vs. multi purpose viewers debate (out of scope here)
 
 Bringing the task *A set of (parts of) pages from several documents* into the IIIF Presentation world we get *A set of Canvas[es/ parts], spanning multiple Manifests*.
