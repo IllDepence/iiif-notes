@@ -78,3 +78,7 @@ These all seem sensible and all have their advantages and drawbacks.
 * Annotations
     * when a Manifest includes Annotations (apart from `images`) to be displayed on the Canvas part a Curation selects, should a viewer displaying the Curation view those Annotations?
 * (surely many more)
+
+---
+
+### [Comments](https://github.com/IllDepence/iiif-notes/issues/1)
